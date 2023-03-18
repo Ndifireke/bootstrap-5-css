@@ -1,0 +1,18 @@
+
+
+ [class*="col"] {
+    background-color: orange;
+    padding: 1rem;
+    border: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+ }
+
+ [class*="col-sm"] {
+    background-color: palegreen ;
+    color: black;
+    padding: 1rem;
+    border: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+ }
